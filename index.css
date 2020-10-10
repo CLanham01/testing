@@ -1,0 +1,10 @@
+div{
+    display: block;
+    background-color: khaki;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
